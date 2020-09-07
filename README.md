@@ -1,7 +1,7 @@
 # Instagram-Case-Study
 
 Made for Spring 2020 Intro to Digital Product Design Class @ Cornell University
-Check out the Keynote for more information on my case study!
+Check out the the pdf version of the Keynote for more information on my case study!
 
 Figma: https://www.figma.com/file/HG5h32K4wFqvvnkve2tNQ7/sjz46-Instagram?node-id=458%3A15293
 
